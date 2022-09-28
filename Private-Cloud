@@ -1,1 +1,4 @@
-
+Private-Cloud
+Private Clouds lassen sich grob als Cloud-Umgebungen beschreiben, die nur einer bestimmten Nutzergruppe(z.B. eine einzelne Firma)
+zugeteilt und die normalerwiese hinter der Firewall dieser Nutzergruppe/Firma. Alle Clouds sind Private-CLouds wenn sie sich in einer abgeschotteten Umgebung
+befinden auf die nur die bestimmte Nutzergruppe/Firma Zugriff hat.
